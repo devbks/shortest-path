@@ -1,0 +1,29 @@
+{
+    "pokhara":{
+        "beni":[86,0],
+        "butwal":[94,0],
+        "ghandruk":[35,0],
+        "baglung":[75,1]
+    },
+    "beni":{
+        "jomsom":[75,0],
+        "baglung":[10,1],
+        "butwal":[170,0]
+    },
+    "butwal":{
+        "pokhara":[94,0],
+        "beni":[71,0],
+        "jomsom":[182,0],
+        "narayangadh":[80,0]
+    },
+    "narayangadh":
+    {
+        "kathmandu":[150,0]
+    },
+    "kathmandu":{
+        "pokhara":[193,0],
+        "butwal":[220,0],
+        "beni":[298,0]
+    }
+    
+}
